@@ -1,2 +1,5 @@
 .imgct { width: 400px; height: 300px;
-text-align:center;
+img{
+display:block;
+margin:auto;
+}
